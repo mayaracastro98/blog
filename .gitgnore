@@ -1,0 +1,17 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Diretório de pacotes instalados
+node_modules
+
+# Diretório de build
+/dist
+
+# Arquivos de ambiente
+.env
+
+# Editor directories
+.idea
+.vscode
